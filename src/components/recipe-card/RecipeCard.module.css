@@ -1,0 +1,17 @@
+.recipe__card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  cursor: pointer;
+}
+.recipe__image {
+  width: 200px;
+  height: 200px;
+  border-radius: 10px;
+}
+.recipe__name {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 600;
+}

@@ -1,0 +1,13 @@
+.no__records__wrapper {
+  background-color: rgb(242, 242, 131);
+  width: 500px;
+  height:100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.no__records__text {
+  text-align: center;
+  color: rgb(234, 72, 72);
+  font-weight: 600;
+}
